@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Cypress assets & reports generated during test runs
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Environment variables & secrets
+.env
+*.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
