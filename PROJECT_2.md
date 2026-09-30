@@ -101,3 +101,9 @@ jobs:
 - Execute Headless Cypress E2E Security Suite — PASS
 - Route Traffic via Active OWASP ZAP Proxy Engine — PASS
 - Generate & Upload `ZAP_Vulnerability_Report.html` Artifact — PASS
+
+
+<img width="1177" height="991" alt="cypresse2e_2" src="https://github.com/user-attachments/assets/c718302e-9efa-4c14-83a3-313ff5e84462" />
+
+
+<img width="1235" height="937" alt="cypresse2e_3" src="https://github.com/user-attachments/assets/32d52370-4338-4852-810c-d783f43f9e5a" />
