@@ -72,3 +72,6 @@ describe('E2E Authentication & Client-Side Vulnerability Assessment', () => {
     - Validate Auth Response & Security Headers — PASS
     - Verify Auth Token is NOT exposed unencrypted in LocalStorage — PASS
     - Verify Session Cookie carries Secure & HttpOnly flags — PASS
+
+
+<img width="1912" height="916" alt="cypresse2e_1" src="https://github.com/user-attachments/assets/1501bd45-4d10-492a-bf2a-18a9916ef137" />
